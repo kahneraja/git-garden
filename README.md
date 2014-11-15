@@ -1,5 +1,3 @@
 # Welcome
 
-This is me attempting to learn about git.
-
-I want to understand this better!
+This is me experimenting with various git commands.
