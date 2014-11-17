@@ -1,0 +1,19 @@
+[user]
+	name = Kahne Raja
+	email = kahneraja@gmail.com
+[credential]
+	helper = !'C:\\Users\\Kahne\\AppData\\Roaming\\GitCredStore\\git-credential-winstore.exe'
+[push]
+	default = matching
+[color]
+	ui = auto
+[merge]
+	tool = kdiff3
+[mergetool "kdiff3"]
+	path = C:/Program Files (x86)/KDiff3/kdiff3.exe
+[diff]
+	guitool = kdiff3
+[difftool "kdiff3"]
+	path = C:/Program Files (x86)/KDiff3/kdiff3.exe
+[core]
+	editor = \"C:/Program Files (x86)/GitExtensions/GitExtensions.exe\" fileeditor
