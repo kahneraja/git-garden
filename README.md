@@ -9,5 +9,3 @@ And we now have a clear understanding of how reset, fetch and commit can collide
 I'm writing a poem. I'm writing a story. and it's an awesome story!! This poem is going to get written!
 
 Ok great. You guys go ahead and work on your bike and car. The bike is now fixed :) I will fix the car very soon. WIP.
-
-And now doing some other conflicting work.
